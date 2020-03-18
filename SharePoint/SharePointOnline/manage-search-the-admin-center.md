@@ -58,6 +58,4 @@ You can customize and tailor the classic search experience more than Microsoft s
 > Thesaurus isn't available in SharePoint Online. 
   
 ## See also
-<a name="__top"> </a>
-
 [Search limits for SharePoint Online](search-limits.md)
